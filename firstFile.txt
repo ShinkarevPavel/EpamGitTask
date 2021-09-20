@@ -1,10 +1,9 @@
 1 - this line was modifyed
 2 - this line was modifyed
-
 3
 4
-5
-6
+5 - change line from clone repo
+6 - change line from clone repo
 7
 8
 9
