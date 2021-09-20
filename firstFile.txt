@@ -1,12 +1,12 @@
 1 - this line was modifyed - 18 step - another folder
 2 - this line was modifyed - 18 step - another folder
-3
-4
-5 - change line from clone repo
-6 - change line from clone repo
+3 - 19 step
+4 - 19 step
+5 
+6
 7
-8
-9
+8 - chachge line from original repo
+9 - chachge line from original repo
 10
-ml_11
-ml_12
+ml_11 - - step 20 original branch
+ml_12 - step 20 original branch
