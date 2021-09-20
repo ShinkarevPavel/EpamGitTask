@@ -1,5 +1,5 @@
-1 - this line was modifyed
-2 - this line was modifyed
+1 - this line was modifyed - 18 step - another folder
+2 - this line was modifyed - 18 step - another folder
 3
 4
 5 - change line from clone repo
